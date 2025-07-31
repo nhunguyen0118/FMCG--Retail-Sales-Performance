@@ -1,6 +1,6 @@
 # FMCG Retail - Sales Performance Dashboard
 
-This project explores the sales performance of an FMCG (Fast-Moving Consumer Goods) company using a combination of SQL, Tableau, and Machine Learning. The goal is to deliver both insightful dashboards for business users and predictive models for strategic planning.
+This project explores the sales performance of an FMCG company using a combination of SQL, Tableau, and Machine Learning. The goal is to deliver both insightful dashboards for business users and predictive models for strategic planning.
 
 ---
 
